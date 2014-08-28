@@ -1,0 +1,26 @@
+{
+  "name": "deep-set",
+  "version": "1.0.0",
+  "description": "Sets a value of a property in an object tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaemo/deep-set"
+  },
+  "keywords": [
+    "deep",
+    "object",
+    "property",
+    "set",
+    "assign"
+  ],
+  "author": "Clemens Stolle <klaemo@fastmail.fm>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaemo/deep-set/issues"
+  },
+  "homepage": "https://github.com/klaemo/deep-set"
+}
