@@ -4,6 +4,7 @@
   "description": "Sets a value of a property in an object tree.",
   "main": "index.js",
   "scripts": {
+    "prepublish": "npm test",
     "test": "node test/test.js"
   },
   "repository": {

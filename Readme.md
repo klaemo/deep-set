@@ -6,6 +6,8 @@ Sets a value of a property in an object tree. Missing objects will (optionally) 
 
     npm install deep-set
 
+In the browser you can use deepSet with Browserify, RequireJS or as a window global.
+
 ## Usage
 
 ```js
