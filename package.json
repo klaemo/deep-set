@@ -1,6 +1,6 @@
 {
   "name": "deep-set",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sets a value of a property in an object tree.",
   "main": "index.js",
   "scripts": {
