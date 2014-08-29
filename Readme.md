@@ -1,4 +1,6 @@
 # deep-set
+[![testling badge](https://ci.testling.com/klaemo/deep-set.png)](https://ci.testling.com/klaemo/deep-set)
+[![Build Status](https://travis-ci.org/klaemo/deep-set.svg)](https://travis-ci.org/klaemo/deep-set)
 
 Sets a value of a property in an object tree. Missing objects will (optionally) be created.
 
